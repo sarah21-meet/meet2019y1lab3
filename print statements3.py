@@ -17,3 +17,25 @@ Say Something Codings fun!!
 >>> user.swapcase()
 ' cODINGS FUN!!'
 >>> 
+========= RESTART: /home/student/sarah21_lab3/meet2019y1lab3/Echo.py =========
+Say Something hi
+>>> user
+' hi'
+>>> 
+========= RESTART: /home/student/sarah21_lab3/meet2019y1lab3/Echo.py =========
+Say Something
+========= RESTART: /home/student/sarah21_lab3/meet2019y1lab3/Echo.py =========
+Say Something heee
+ HEEE
+>>> 
+========= RESTART: /home/student/sarah21_lab3/meet2019y1lab3/Echo.py =========
+Say Something fff
+ FFF
+ fff
+>>> 
+========= RESTART: /home/student/sarah21_lab3/meet2019y1lab3/Echo.py =========
+Say Something good!!!
+ GOOD!!!
+ good!!!
+ GOOD!!!
+>>> 
